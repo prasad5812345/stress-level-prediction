@@ -1,17 +1,17 @@
 <h1>Stress-Level-Detection</h1>
 
-This project was created to detect a person's stress level. To detect the stress level, it is necessary to input several variables such as:
+<h3>This project was created to detect a person's stress level. To detect the stress level, it is necessary to input several variables such as:</h3>
 
-Humidity Value
-Body Temperature
-Number of Steps
-After inputting these variables, you can get the results of predicting stress levels consisting of 3 classes:
+-> Humidity Value<br>
+-> Body Temperature<br>
+-> Number of Steps<br>
+<h3>After inputting these variables, you can get the results of predicting stress levels consisting of 3 classes:</h3>
 
-Low
-Medium
-High
+Low<br>
+Medium<br>
+High<br>
 To run this project on a local host, you must install some requirements (requirements.txt).
-Command to run this app is : "streamlit run app.py"
+<h4>Command to run this app is : "streamlit run app.py"</h4>
 
 Output will be like: 
 
