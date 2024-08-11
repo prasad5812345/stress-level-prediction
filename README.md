@@ -10,7 +10,7 @@
 - Low<br>
 - Medium<br>
 - High<br>
-To run this project on a local host, you must install some requirements (requirements.txt).
+<h4>To run this project on a local host, you must install some requirements (requirements.txt).</h4>
 <b><h4>Command to run this app is : "streamlit run app.py"</h4></b>
 
 <i>Output will be like: </i>
